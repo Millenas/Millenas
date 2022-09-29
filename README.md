@@ -1,7 +1,7 @@
 ## Olá, eu sou a Millena Sangela 👋
 
 - 🔭 Hoje estou estudando QA
-- 🌱 Estudando automação de teste
+- 🌱 Estudando automação de teste e Java
 - 😄 Pronouns: ela/dela
 
 <div align="center">
