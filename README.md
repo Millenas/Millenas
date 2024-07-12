@@ -1,8 +1,9 @@
 ## Olá, eu sou a Millena Sangela 👋
 
-- 🔭 Hoje estou estudando QA
-- 🌱 Estudando automação de teste e Java
+- 🔭 Hoje estou estudando Python
+- 🌱 Estudando automação
 - 😄 Pronouns: ela/dela
+- 📺 Dorama do momento: Tomorrow
 
 <div align="center">
   <a href="https://github.com/Millenas">
