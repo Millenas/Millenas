@@ -1,9 +1,9 @@
 ## Olá, eu sou a Millena Sangela 👋
 
-- 🔭 Hoje estou estudando Python
-- 🌱 Estudando automação
+- 🔭 Hoje estou estudando Node.js com Express
+- 🌱 Estudando Web Full-Stack
 - 😄 Pronouns: ela/dela
-- 📺 Dorama do momento: Tomorrow
+- 📺 Dorama do momento: O amor mora ao lado
 
 <div align="center">
   <a href="https://github.com/Millenas">
